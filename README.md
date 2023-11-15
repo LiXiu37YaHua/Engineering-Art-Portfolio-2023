@@ -9,3 +9,4 @@ https://github.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/issues/1
 ![My engineering artwork](https://user-images.githubusercontent.com/124327375/283027465-bdf2ca87-ec69-44c3-bf75-7f16c2825d44.png)
 ![My engineering artwork](https://user-images.githubusercontent.com/124327375/283027509-e9faad70-db86-4d43-a566-4aaf85e4045d.png)
 ![My engineering artwork](https://user-images.githubusercontent.com/124327375/283027784-60d0ef8d-b0ed-4c4d-aed4-bca8418c244b.jpg)
+![My engineering artwork](https://user-images.githubusercontent.com/124327375/283025483-24e6a23c-6b6c-42d2-9b57-6fe3fe8101ab.png)
