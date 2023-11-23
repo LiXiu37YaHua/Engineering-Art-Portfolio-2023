@@ -13,6 +13,7 @@ https://github.com/LiXiu37YaHua/Engineering-Art-Portfolio-2023/issues/1
 ![My engineering artwork](https://user-images.githubusercontent.com/124327375/283025488-7fb0fa19-a46f-41fa-b161-2f8a770fee1e.png)
 ![My engineering artwork](https://user-images.githubusercontent.com/124327375/283026040-5b5679b4-d516-4f96-bae4-cf3997174f89.png)
 ![My engineering artwork](https://user-images.githubusercontent.com/124327375/283026968-312d18b7-0c2b-4483-a26c-92292e152ac9.png)
-![My engineering artwork](C:\Users\mlanz\OneDrive - SNHU\C++\Visual Studios 2023 projects/lumi site worked.png).
+![My Engineering Artwork](images/lumi_site_worked.png)
+
 
 
